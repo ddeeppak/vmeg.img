@@ -1,0 +1,118 @@
+<html>
+<head> 
+    <title>LOGIN</title>
+    <style>
+        .r{
+            margin-top: 200px;
+            margin-left: auto;
+            margin-right: auto;
+            width: 300px;
+            height: 300px;
+            background-color: rgba(240, 248, 255, 0.629);
+            padding: 60px;
+            box-shadow: 10px 5px 5px bisque;
+        }
+        .rd
+        {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+    <script>
+        function help()
+        {
+            var n=document.getElementById("help");
+            n.style.display='flex';
+        }
+        function dis()
+        {
+            var n1=document.getElementById("help");
+            n1.style.display='none';
+        }
+    </script>
+    <script src="./main.js"></script>
+</head>
+<body style="background-color: black;color: black;">
+    <div class="r" onmouseleave="dis()">
+        <center><h1 style="margin-top: -40px;">GET IMAGES</h1></center>
+        <form onsubmit="help1(event)" >
+            <div style=" width: 300px;padding-top: 10px;padding-bottom: 30px;float: left;" title="DEPARTMENT">
+                <input class="rd" type="radio" name="BRO" value="cse" required>CSE&nbsp;
+                <input class="rd" type="radio" name="BRO" value="ece" required>ECE&nbsp;
+                <input class="rd" type="radio" name="BRO" value="it" required>IT&nbsp;
+                <input class="rd" type="radio" name="BRO" value="mech" required>MECH&nbsp;
+                <input class="rd" type="radio" name="BRO" value="aids" required>AID&nbsp;
+                <input class="rd" type="radio" name="BRO" value="civil" required>CIVIL&nbsp;
+                <input class="rd" type="radio" name="BRO" value="eee" required>EEE&nbsp;
+                <input class="rd" type="radio" name="BRO" value="mba" required>MBA&nbsp;
+                <input class="rd" type="radio" name="BRO" value="mtech" required>MTECH&nbsp;
+                <input class="rd" type="radio" name="BRO" value="mca" required>MCA&nbsp;
+                <input class="rd" type="radio" name="BRO" value="cse(aiml)" required>CSE(aiml)&nbsp;
+            </div>
+            
+            <input type="text" placeholder="From" name="from" size="40" style="height:40px;width: 300px;" title="Roll No">
+            <br>
+            <br>
+            <input type="text" placeholder="TO" name="to" size="40" style="height: 40px;width: 300px;" title="Roll No"><br>
+            <br><br>
+            <center><input type="submit" value="GO" style="width: 80px;"><br><br><br><br>
+            <button  onmouseenter="help()" style="width: 80px;">HELP</button>
+            </center>
+            </form>
+        
+    </div>
+    <div id="help" style="background-color: black;border: 5px white solid;margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 650px;
+    height: 100px;display: flex;display: none;">
+    <form style="display: flex;font-size: 30px; padding-left: 10px;margin-top:-10px;"><p style="color: darkorchid;">20</p> <p style="color: aqua;">88</p> <p style="color: rgb(255, 204, 0);">1</p><p style="color: rgb(17, 255, 0);">A</p> <p style="color: rgb(255, 0, 0);">05</p> <p style="color: deeppink;">55</p><br></form>
+    <table style="margin: 0%;">
+        <tr style="color: rgb(255, 255, 255);">
+            <th>CSE</th>
+            <th>ECE</th>
+            <th>IT</th>
+            <th>EEE</th>
+            <th>AIDS</th>
+            <th>MBA</th>
+            <th>CSE(aiml)</th>
+            <th>MCA</th>
+            <th>MECH</th>
+            <th>MTECH</th>
+        </tr>
+        <tr style="color: crimson;margin: 0%;">
+            <th>05</th>
+            <th>04</th>
+            <th>12</th>
+            <th>02</th>
+            <th>72</th>
+            <th>00</th>
+            <th>66</th>
+            <th>00</th>
+            <th>03</th>
+            <th>20</th>
+        </tr>
+        <tr style="color: rgb(17, 255, 0);">
+            <th>A</th>
+            <th>A</th>
+            <th>A</th>
+            <th>A</th>
+            <th>A</th>
+            <th>E</th>
+            <th>A</th>
+            <th>F</th>
+            <th>A</th>
+            <th>D</th>
+        </tr>
+        <tr>
+            <td style="font-size: smaller;color: darkorchid;">YEAR</td>
+            <td></td>
+            <td style="font-size: 10px;color: aqua;">COLLEGE</td>
+            <td style="font-size: 10px;color: aqua;">CODE</td>
+            <td ></td>
+            <td style="color: rgb(255, 204, 0);">LE&nbsp5</td>
+        </tr>
+    </table>
+    </div>
+</body>
+</html>
