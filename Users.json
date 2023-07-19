@@ -1,0 +1,269 @@
+{
+  "users": [
+    {
+      "name": "Amit",
+      "age": 32,
+      "state": "Maharashtra"
+    },
+    {
+      "name": "Priya",
+      "age": 28,
+      "state": "Karnataka"
+    },
+    {
+      "name": "Rahul",
+      "age": 25,
+      "state": "Delhi"
+    },
+    {
+      "name": "Anjali",
+      "age": 40,
+      "state": "Uttar Pradesh"
+    },
+    {
+      "name": "Sandeep",
+      "age": 35,
+      "state": "Gujarat"
+    },
+    {
+      "name": "Kavita",
+      "age": 22,
+      "state": "Rajasthan"
+    },
+    {
+      "name": "Raj",
+      "age": 29,
+      "state": "Haryana"
+    },
+    {
+      "name": "Neha",
+      "age": 27,
+      "state": "Punjab"
+    },
+    {
+      "name": "Vijay",
+      "age": 38,
+      "state": "Madhya Pradesh"
+    },
+    {
+      "name": "Anita",
+      "age": 31,
+      "state": "West Bengal"
+    },
+    {
+      "name": "Suresh",
+      "age": 45,
+      "state": "Bihar"
+    },
+    {
+      "name": "Meena",
+      "age": 23,
+      "state": "Odisha"
+    },
+    {
+      "name": "Ramesh",
+      "age": 26,
+      "state": "Telangana"
+    },
+    {
+      "name": "Archana",
+      "age": 34,
+      "state": "Kerala"
+    },
+    {
+      "name": "Vikram",
+      "age": 37,
+      "state": "Chhattisgarh"
+    },
+    {
+      "name": "Sunita",
+      "age": 29,
+      "state": "Assam"
+    },
+    {
+      "name": "Alok",
+      "age": 33,
+      "state": "Jharkhand"
+    },
+    {
+      "name": "Divya",
+      "age": 24,
+      "state": "Uttarakhand"
+    },
+    {
+      "name": "Naveen",
+      "age": 30,
+      "state": "Himachal Pradesh"
+    },
+    {
+      "name": "Anju",
+      "age": 26,
+      "state": "Goa"
+    },
+    {
+      "name": "Prakash",
+      "age": 27,
+      "state": "Sikkim"
+    },
+    {
+      "name": "Smita",
+      "age": 35,
+      "state": "Manipur"
+    },
+    {
+      "name": "Sanjay",
+      "age": 41,
+      "state": "Meghalaya"
+    },
+    {
+      "name": "Deepa",
+      "age": 28,
+      "state": "Nagaland"
+    },
+    {
+      "name": "Arjun",
+      "age": 32,
+      "state": "Arunachal Pradesh"
+    },
+    {
+      "name": "Geeta",
+      "age": 39,
+      "state": "Mizoram"
+    },
+    {
+      "name": "Harish",
+      "age": 36,
+      "state": "Tripura"
+    },
+    {
+      "name": "Rani",
+      "age": 29,
+      "state": "Andhra Pradesh"
+    },
+    {
+      "name": "Vijaya",
+      "age": 31,
+      "state": "Tamil Nadu"
+    },
+    {
+      "name": "Pradeep",
+      "age": 33,
+      "state": "Kerala"
+    },
+    {
+      "name": "Maya",
+      "age": 30,
+      "state": "Puducherry"
+    },
+    {
+      "name": "Rajesh",
+      "age": 42,
+      "state": "Andaman and Nicobar Islands"
+    },
+    {
+      "name": "Neeraj",
+      "age": 34,
+      "state": "Lakshadweep"
+    },
+    {
+      "name": "Shweta",
+      "age": 25,
+      "state": "Chandigarh"
+    },
+    {
+      "name": "Rohit",
+      "age": 37,
+      "state": "Daman and Diu"
+    },
+    {
+      "name": "Poonam",
+      "age": 26,
+      "state": "Dadra and Nagar Haveli"
+    },
+    {
+      "name": "Sunil",
+      "age": 38,
+      "state": "Ladakh"
+    },
+    {
+      "name": "Anand",
+      "age": 29,
+      "state": "Delhi"
+    },
+    {
+      "name": "Swati",
+      "age": 28,
+      "state": "Haryana"
+    },
+    {
+      "name": "Rajendra",
+      "age": 27,
+      "state": "Uttar Pradesh"
+    },
+    {
+      "name": "Lata",
+      "age": 31,
+      "state": "Gujarat"
+    },
+    {
+      "name": "Vinod",
+      "age": 32,
+      "state": "Rajasthan"
+    },
+    {
+      "name": "Sarita",
+      "age": 25,
+      "state": "Madhya Pradesh"
+    },
+    {
+      "name": "Alok",
+      "age": 34,
+      "state": "West Bengal"
+    },
+    {
+      "name": "Sangeeta",
+      "age": 27,
+      "state": "Bihar"
+    },
+    {
+      "name": "Nitin",
+      "age": 30,
+      "state": "Odisha"
+    },
+    {
+      "name": "Renuka",
+      "age": 33,
+      "state": "Telangana"
+    },
+    {
+      "name": "Arun",
+      "age": 26,
+      "state": "Kerala"
+    },
+    {
+      "name": "Anita",
+      "age": 36,
+      "state": "Chhattisgarh"
+    },
+    {
+      "name": "Vivek",
+      "age": 29,
+      "state": "Assam"
+    },
+    {
+      "name": "Rani",
+      "age": 28,
+      "state": "Jharkhand"
+    },
+    {
+      "name": "Mohan",
+      "age": 37,
+      "state": "Uttarakhand"
+    },
+    {
+      "name": "Pooja",
+      "age": 24,
+      "state": "Himachal Pradesh"
+    }
+  ]
+}
